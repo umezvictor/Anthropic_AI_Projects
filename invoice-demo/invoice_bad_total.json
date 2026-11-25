@@ -1,0 +1,1 @@
+{"invoice_number":"INV-2042","po_number":"PO-7790","line_items":[{"description":"Laptop repair","amount":400.00},{"description":"Network setup","amount":550.00},{"description":"Printer service","amount":480.00}],"stated_total":1450.00,"calculated_total":1430.00,"conflict_detected":true}

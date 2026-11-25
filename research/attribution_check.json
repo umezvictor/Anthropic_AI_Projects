@@ -1,0 +1,22 @@
+{
+  "checked_at": "2026-10-14T11:29:11.008382+00:00",
+  "sources": [
+    {
+      "agent_name": "web-research",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10964844",
+      "source_identifier_found_in_html": true,
+      "total_findings": 15,
+      "claims_with_recognizable_text_in_html": 13,
+      "claim_coverage_ratio": 0.867
+    },
+    {
+      "agent_name": "document-analysis",
+      "source": "C:\\Users\\ChibuzorUmezuruike\\Documents\\Victor\\Anthropic\\research\\covid2.pdf",
+      "source_identifier_found_in_html": true,
+      "total_findings": 15,
+      "claims_with_recognizable_text_in_html": 15,
+      "claim_coverage_ratio": 1.0
+    }
+  ],
+  "all_successful_sources_attributed": true
+}

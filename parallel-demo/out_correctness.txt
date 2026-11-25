@@ -1,0 +1,3 @@
+verify_token: an empty or None token returns True, so a caller with no token is authenticated.
+split_full_name: a single-word name makes parts[1] raise IndexError, and double spaces between words return an empty string as the last name.
+merge_orders: it calls orders.remove while looping over the same list, so the element after each removed one is skipped and consecutive cancelled orders stay in.

@@ -1,0 +1,18 @@
+## Review of `review_me.py`
+
+**Security**
+- `API_KEY` and `SESSION_TOKEN` are hardcoded secrets in source (lines 6-7) — should be loaded from env/secret store.
+- `find_order` (line 25) builds SQL via string concatenation → **SQL injection**. `get_customer_names` right below it does it correctly with a parameterized query, so the fix pattern is already in the file.
+- `verify_token` (lines 31-37): `if not supplied: return True` means an **empty/missing token is treated as authenticated** — a critical auth bypass.
+
+**Correctness bugs**
+- `split_full_name` (line 47-50): assumes exactly two parts; a single-word name raises `IndexError`, and names with a middle name/suffix silently drop everything after the second token.
+- `merge_orders` (line 53-58): mutates a list with `.remove()` while iterating over it — skips elements (classic "removing while iterating" bug). Should build a new list or iterate a copy.
+- `find_duplicates` (lines 83-91): O(n²) and fragile but not wrong; worth flagging as inefficient — easily done with a set in O(n).
+
+**Reliability / design issues**
+- `retry_charge` (lines 94-100): infinite retry loop with no max attempts and a blocking `time.sleep(1)` — can hang forever and has no backoff or logging.
+- `find_order` opens a new `sqlite3` connection per call and never uses a context manager/pooling; same pattern repeated in `get_customer_names` (new connection per loop iteration) — inefficient and leaves connections unclosed on exceptions (no try/finally).
+- `total_revenue` (lines 73-80): builds the report string via repeated `+=`-style concatenation in a loop — O(n²) string building; should use `"\n".join(...)`.
+
+**Most severe to fix first:** the SQL injection in `find_order` and the auth bypass in `verify_token` — both are exploitable security holes, not just style issues.

@@ -1,0 +1,17 @@
+INVOICE
+
+Northwind Office Supply
+12 Harbor Road, Springfield
+
+Bill to: Blue Lake Shop
+Invoice number: INV-2042
+Invoice date: 18 September 2026
+PO number: PO-7790
+
+Item                          Amount
+Laptop repair                $400.00
+Network setup                $550.00
+Printer service              $480.00
+
+Total due:                 $1,450.00
+Payment terms: 30 days

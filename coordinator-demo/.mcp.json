@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "refunds": {
+      "type": "stdio",
+      "command": "py",
+      "args": [
+        "server.py"
+      ],
+      "env": {}
+    }
+  }
+}

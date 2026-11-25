@@ -1,0 +1,3 @@
+find_duplicates: Nested loop over all index pairs is O(n^2) with a list membership check on top, so use a Counter or a seen set instead.
+get_customer_names: Opens a new database connection and runs one query per order id, so reuse one connection and fetch all ids with a single IN query.
+merge_orders: Calling list.remove inside the loop is O(n) per removal, which makes it quadratic, and it also skips elements while mutating the list, so build a new list with a comprehension.

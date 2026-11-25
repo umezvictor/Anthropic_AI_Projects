@@ -1,0 +1,3 @@
+API_KEY: Live API key is hardcoded in the source.
+SESSION_TOKEN: Admin session token is hardcoded in the source.
+find_order: order_id is concatenated into the SQL string, which allows SQL injection.

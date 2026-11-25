@@ -1,0 +1,17 @@
+INVOICE
+
+Northwind Office Supply
+12 Harbor Road, Springfield
+
+Bill to: Blue Lake Shop
+Invoice number: INV-2041
+Invoice date: 14 September 2026
+PO number: PO-7781
+
+Item                          Amount
+Standing desk                $640.00
+Office chair                 $760.00
+Desk lamp                     $95.00
+
+Total due:                 $1,495.00
+Payment terms: 30 days

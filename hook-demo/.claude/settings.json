@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__refunds__refund_order",
+      "mcp__refunds__escalate_to_human"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__refunds__refund_order",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "py",
+            "args": ["${CLAUDE_PROJECT_DIR}/.claude/hooks/refund_limit.py"],
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

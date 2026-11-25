@@ -1,0 +1,16 @@
+INVOICE
+
+Northwind Office Supply
+12 Harbor Road, Springfield
+
+Bill to: Blue Lake Shop
+Invoice number: INV-2043
+Invoice date: 22 September 2026
+
+Item                          Amount
+Paper, 20 boxes              $210.00
+Printer toner                $185.50
+Cables                        $64.50
+
+Total due:                   $460.00
+Payment terms: 30 days

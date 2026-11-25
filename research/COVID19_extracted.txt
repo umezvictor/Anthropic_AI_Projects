@@ -1,0 +1,642 @@
+http://rwe.sciedupress.com  Research in World Economy   Vol. 12, No. 3; 2021
+
+   A Study of COVID-19 and Its Impact on Well Being of Society and
+                                      Business
+
+                                    Amrita Sidhu1, Pretty Bhalla1 & Inass Said Salamah Ali2
+1 Lovely Professional University, Phagwara, Punjab, India
+2 MIS Department, Hekma School of Business & Law, Jeddah, KSA
+Correspondence: Inass Said Salamah Ali, MIS Department, Hekma School of Business & Law, Jeddah, KSA.
+
+Received: August 17, 2020   Accepted: November 5, 2020  Online Published: April 24, 2021
+doi:10.5430/rwe.v12n3p7
+                               URL: https://doi.org/10.5430/rwe.v12n3p7
+
+Abstract
+
+Pandemic is the worst situation faced by the world in every century. It not only leads to great human loss but
+unbearable economic loss also. In order to understand the nature & severity of COVID- 19, emerged in the year 2019
+in the Wuhan city of China we have studied the great pandemics occurred in 20th century i.e., influenza outbreak in
+1918, 1957 and 1968 1918. The objective of this paper was to understand the severity, mitigating strategies and
+impact of COVID- 19 on the wellbeing of the society. A review research method was followed to collect the
+information regarding previous pandemic occurred and the prevailing situation of the society. It is being studied that,
+alike previous pandemics, this pandemic also leads to great human and economic losses all over the world.
+Transmission rate was so high that in few weeks it covers a large area under its impact. Similar mathematical model
+SIR (Susceptible- Infectious- Recovered) of transmission used in 20th century was used to understand the
+transmission process of COVID- 19. As far as mitigating strategies are concerned, it is being observed that similar
+strategies like travel restrictions, social distancing, home quarantine, school & workplace closure which were used to
+control influenza pandemics were used to control the current situation. Recommendations were made on the basis of
+steps taken by the government in order to help the society.
+
+Keywords: COVID-19, impact, measure, severity, wellbeing
+
+1. Introduction
+
+The term Pandemic is used for the wide spread of highly infectious disease over a large area such as continent or
+worldwide. As per WHO (World Health Organization) it is defined as "microbial agent that causes a pandemic must
+be a new one, never before found in human beings, and spread easily and comfortably among humans. In this paper
+we will discuss about some of the dangerous pandemics occurred in 20th & 21st century. In the beginning of the 20th
+century, the pandemic influenza occurred at least thrice starting from 1918, 1957 and 1968. In the year 1918-19,
+pandemic named ,,Spanish Flu caused by swine flu variant Hemagglutinin Type 1 and Neuraminidase Type 1
+(H1N1) subtypes of influenza viruses. This pandemic killed 550,000 people in USA and over 20-40 million over the
+world (Ghendon, 1994). The economic loss incurred by USA was approximately 167 million dollar (Tam, 1999).
+Another pandemic outbreak in 1957 was termed as ,,Asian Flu influenza virus A including Hemagglutinin and
+Neuraminidase (H2N2) and in the year 1967, it was ,,Hong Kong Flu (H3N2), which leads to 36,000 deaths alone in
+USA (Ghendon, 1994). ,,Avian flu outbreak in the year 2004 and many fatal human cases were reported from
+Thailand and Vietnam. This virus was originated from birds and mostly the rural people maintaining poultry flocks
+were at greater risk (Stöhr, 2005). In the year 2009, it was ,,Swine Flu influenza outbreak in Federal District of
+Mexico in the month of March. The cases steadily increased within few weeks and were reported in Canada & USA.
+By April 2009 Mexico was having about 850 cases & 60 deaths (Kerr, 2009). Similar type of virus disease outbreak
+in 2019 is termed as COVID-19, originated from Wuhan city of china and spread to many other countries of the
+world. It was declared as a global health emergency on 30th January, 2020 by World Health Organization (WHO)
+after watching its growing cases in China (Velavan and Meyer, 2020). The first five cases of COVI-19 were reported
+on 29th December, 2020 in China and as on 22nd, January, 2020 the number raise to 1975 along with 58 deaths
+(Tamblyn and Hinman, 1993). After 30th January, 2020 this virus extended over to the other countries like Taiwan,
+Vietnam, Malaysia, Nepal, India, Sri Lanka, United States of America, United Arab Emirates, The Philippines,
+Australia, Canada, Finland, Italy, France & Germany (Rothana and Byrareddyb, 2020). This is the on-going
+
+Published by Sciedu Press   7                           ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy                 Vol. 12, No. 3; 2021
+
+pandemic which is adversely affecting the population as well as the economy of whole world due to its
+uncontrollable & untreatable nature. This paper follows the research methodology given hereunder:
+
+Mathematical formulation of methodology adopted for conducting the study:
+
+Aim (A)                     Data collection (D)     Exploring    the  Discussion (D)
+
+                                                    concept (E)
+
+                                                                      Recommendations and
+                                                                      conclusion
+
+The research study conducted is qualitative in nature, therefore the main aim is:
+
+To explore the severity and transmission of COVI-19 in light of previous pandemics.
+
+To study the various mitigating strategies followed to control the transmission.
+
+To study the impact of this pandemic on social wellbeing.
+
+As per the aim of the research relevant literature was collected on the various parameters related to the study. Data
+collection consists of various statistical reports, articles and research papers published in context of COVID-19.
+Depth study of the collected information was done to explore the concept and drawing conclusions out of that. In the
+discussion part a general framework was made to depict the impact of Covid- 19 on Society Well Being based on the
+understanding of the researcher. Finally, the conclusion was drawn and recommendations were made to improve the
+present situation in future.
+
+Now, let us discuss some of the clinical features of these pandemics.
+
+2. Clinical Features
+
+In comparison to other infectious diseases like plague or smallpox, influenza and coronaviruses spread more rapidly
+among the population and affect all the age groups (Aufderheide and Rodriguez, 1998). Influenza virus belong to the
+family of orthomyxo viridae and of three types of influenza A, influenza B and influenza C. Influenza A is mainly
+concerned with pandemics & high mortality rate. Influenza B is similar to A as per its clinical presentation but it does
+not cause any pandemic & is less severe, whereas, influenza C does not lead to any influenza or epidemic but a mild
+infection in the upper respiratory tract among children & adults (Hayden and Palese, 2002). Influenza A virus carries
+different combinations of viral envelope glycoprotein haemagglutin (H) and neuraminidase (N) which lead to which
+leads to influenza pandemic (Webster and Lim, 1992). On the other hand coronavirus was first mentioned by Tyrell
+& Bynoc in the year 1966. As per them it is spherical in shape with a core shell named as coronaviruses, in latin
+corona means crown. There are 4 sub families of coronaviruses namely alpha, beta gama & delta. Among these
+groups beta coronaviruses can infect human beings & may cause severe diseases and deaths. Alpha and beta viruses
+were originated from mammals especially bats, whereas the other two gama & delta originated from birds & pigs.
+The SARS disease originated in the year 2003 belongs to the family of coronaviruses similar to COVID-19 (Velavan
+and Meyer, 2020). The evolution period of influenza A virus is from 1 to 5 days and symptoms starts with high fever,
+severe headache, chill and dry cough along with tightness in the chest (Burke and Cunha, 2004). Similarly, the
+symptoms of COVID- 19 start appearing after an incubation period of about 5.2 days (Rothana and Byrareddyb,
+2020). It starts with common symptoms like fever, fatigue, cough, headache, diarrhoea, dyspnoea, lymphopenia and
+haemoptysis. Chest CT scan represents pneumonia along with abnormalities like acute cardiac injury, RN anaemia,
+acute respiratory distress syndrome and grand glass opacities in sub pleural regions of lungs (Huang, Wang, Ren,
+Zhao, Hu, et al., 2020). The illness caused by influenza gets resolved within 7 days (Van Voris, Young, Bernstein,
+Graham, Anderson, Gorse and Belshe, 1984). But as per the clinical manifestations of COVID-19, it leads to severe
+respiratory symptoms which damage the cardio vascular in patients and many patients already having cardio vascular
+disease as nearer to death. According to the Pneumonitis Diagnosis and Treatment program for new coronavirus
+infection (trail version 4) it was concluded that, among the patients having COVID- 19, 25% suffering from heart
+disease, 58% from hypertension & 44% from arrhythmia. The mortality data given by NHC shows 35% of patients
+
+Published by Sciedu Press                        8               ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy  Vol. 12, No. 3; 2021
+
+died from this disease were having a history of hypertension and 17% were having a history of coronary heart
+disease. Moreover, its transmission rate is very high among human beings. Now, let us discuss some of the
+mathematical models related to the transmission of these deadly pandemics (Zheng, Ma, Zhang and Xie, 2020). The
+methodology adopted
+
+3. Mathematical Models & Transmission
+
+The transmission rate of the pandemics is very high, in no time it spreads all over the world. Therefore, mathematical
+models were designed to know the transmission process of such pandemics. The basic model was developed by
+Kermack &Mc Kendrick, named as SIR (Susceptible- Infectious- Recovered) model (Kermack and McKendrick,
+1927). As per this model, the influenza infected individual (I) comes in contact with closed population where
+everyone is susceptible (S), the probability of transmission is . As the confirmed cases increases the epidemic will
+first reaches to its peak and then starts declining as infected individual recover and unable to transmit virus (Coburn,
+Wagner,and Blower, 2009). The severity of epidemic depends upon Ro (basic reproductive number), if Ro>1 then
+epidemic will occur and if Ro<1, the epidemic will stop or die. Similar model was applied to see the transmission
+process of COVI-19. As stochastic transmission model along with data related to COVID-19 in Wuhan & outside
+Wuhan to know the transmission varied in Wuhan between December, 2019 and February, 2020. Model was divided
+into 4 parts: susceptible, exposed (not yet infectious), infectious & removed (isolated, recovered, or no longer
+infectious). Rt was used as the mean number of secondary cases generated by a typical infectious individual on each
+day in a full susceptible population. As per the study, Rt declined from 2.35 to 1.05 after travel restrictions were
+applied (Kucharski, Russell, Diamond, Liu, Edmunds, Funk and Eggo, 2020). It means after applying the
+behavioural interventions like increasing social distancing, closing schools or avoiding crowds or imposing travel
+restriction can reduce the rate of transmission (Velavan and Meyer, 2020). The cases exported among 20 countries
+including USA and Australia, which were more connected to China were having more confirmed cases reported with
+a travel history to Wuhan and majority of them were symptomatic. Most of the infection was exported internationally
+from Wuhan in late January, 2020 (Kucharski, Russell, Diamond, Liu, Edmunds, Funk and Eggo, 2020). In order to
+control dangerous impact of such pandemics, the main concern of the government is to search for suitable &
+effective mitigating strategies. Let us now discus some of the mitigating strategies followed earlier & now by the
+governments.
+
+4. Strategies for Mitigating the Pandemics
+
+After reviewing the literature, it was concluded the similar type of strategies were used to control the transmission
+rate of pandemics occurred in 20th century and recently outbreak COVID-19. In order to control the Influenza
+pandemic, the strategies like isolation, school or workplace closure, travel restrictions, home quarantine, antiviral &
+vaccines were followed the Global Public Health department (Ferguson, Cummings, Fraser, Cajka, Cooley and
+Burke, 2006). Recently, the countries like China, Hong Kong & Singapore control the pandemic by following such
+strategies. In China the value of Ro declined from 2.5 to below unity by following these measures (Anderson,
+Heesterbeek, Klinkenberg, and Hollingsworth, 2020). It is also being observed that social distancing is the most
+effective strategy to control such transmissions. During the influenza pandemic the border restrictions imposed by
+USA & Great Britain delay the spread by 2 to 3 weeks only. School closure can reduce the peak attack rate of
+pandemic upto 40% applied at the time when pandemic is at the peak, but cant able to reduce the overall rates
+(Ferguson, Cummings, Fraser, Cajka, Cooley and Burke, 2006). It can reduce the transmission among children but it
+is not so helpful in controlling the disease (Anderson, Heesterbeek, Klinkenberg & Hollingsworth, 2020). However,
+isolation or home quarantine can give good results in reducing the overall attack of the disease if followed under
+strict compliance (Ferguson, Cummings, Fraser, Cajka, Cooley and Burke, 2006). It is also being observed that
+individual behaviour is more important than government action in controlling the pandemic. In this context, the
+person having symptoms like dry cough, sore throat, & fever can self-isolate themselves & seek medical advice
+immediately before getting severe symptoms. Contact tracing is also considered to be an effective measure in
+reducing the pandemic. At least 70% of contacts are required to be traced to control the situation (Anderson,
+Heesterbeek, Klinkenberg & Hollingsworth, 2020). These measures can control the situation up to a good mark
+before introduction of any vaccine in the market. Taking the recent pandemic i.e. COVID- 19 into consideration, it is
+being observed that, the drug used for treating SARS COV might be an option to treat COVID-19. The combinations
+of drugs like lopinavir and ritonavir were used to treat SARS COV patients and lead to improved conditions (Velavan
+and Meyer, 2020). The other options available are antiviral drugs like nucleoside analogces and HIV protease
+inhibitors (Rothana and Byrareddyb, 2020). Even choloroquine has the capacity to block viral infection by increasing
+endosonal ph required for fusing virus cell (Velavan and Meyer, 2020). The treatment given till date includes oral
+consumption of drugs like lopinavir (500mg), oseltamivir (75mg), ritonavir (500mg) and ganciclovir (.25g) for 3 to
+
+Published by Sciedu Press   9                          ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com                   Research in World Economy                       Vol. 12, No. 3; 2021
+
+14 days. Another report shows that broad spectrum antiviral remdsivir and choloroquine are considered to be highly
+effective in the treatment of COVID-19 (Rothana and Byrareddyb, 2020).
+
+5. Impact
+
+Pandemic give rise to many social & economical problems all over the world. Along with the pain of high mortaliy
+among human beings the process or stratigies followed to control the disease are far more painful. Here, we can say
+that pandemics is a threat to the overall well being of the society. In this context some of the social psychologigst
+identified two types of threats termed as realistic threat & symbolic threat, where former is related to attack on
+material & physical well being (Sherif, 1966) while, later is related to attack on cultural & national identity (Tajfel &
+Turner, 1979). Disease brings in poor physical health as well as incresed unemployment further hampering the
+economic well being, which is directly related to realistic threat (Kachanoff & Taylor, 2017). On the other
+hand,everyone in this society is mutually dependent upon each for motivation and psychological well being. The
+startegies like isolation, home quartine and social distancing negatively effects the wellbeing of the society and is
+related to symbolic threat (Maxouris, Almasy & McLaughlin, 2020). Isolations is the most important step taken by
+the government to control the previous pandemics like influenza, SARS- CoV and recently for COVID-19 also, but it
+incresases the mental problems among people having prior psychological disorders (Fagan, Galea, Ahern, Bonner &
+Vlahov, 2003). Now, let us indepandently discuss the various imacts of Covid-19 in light of social well being.
+
+5.1 Physical & Psychological Impact
+
+In recent outbreak of COVID- 19, people are suffering both physcially & mentally especially in terms of emotions &
+cognition. After the decleration of COVID-19 people showed more negative emotions like anxiety, indignation &
+depression (Li, Wang, Xue, Zhao, and Zhu, 2020). Lockdown & social distancing has increased the anxiety, stress &
+confusion among people by increasing their concerned about earnings, fear of job loss and timely availablity of
+essential supplies. Such stress and anger further lead to increased alcohol consumption & domestic violence. In
+Jingzhou, a town near to Wuhan reported more than triple number of domestic voilence cases in February 2020, as
+compared to February 2019. Other than domestic voilence job loss is the major impact of COVID-19 further leading
+to stress, anxiety & depression among people (Scott, 2020). As per McKinsey national consumer survey conducted
+from March 27, 2020 to March, 29, 2020, stated that the people whose job have been adversly affected by
+COVID-19 are more distress as compared to other people in US. Figure 1 depicts the reported signs of distress
+related to COVID-19 in US.
+
+100%                        27                   34
+ 80%
+ 60%                                                                    High distress
+ 40%
+ 20%                        53                   53                     Moderate Distress
+   0%
+                                                                        Minimal or no distress
+
+                            20                   13
+
+                            all respondents  Job reduction /loss
+
+                            Figure 1. Reported signs of distress related to COVID-19 in US.
+
+The total number of respondents were 1062 and out of them 319 were those whose job was under risk. In this context,
+chart 1 depicts that in both cases i.e all respondents & people facing job loss, 27% & 34% were under high distress,
+53% (in both cases) were under moderate distress and 20 % and 13% were under minimal or no distress. It means the
+people under minimal distress category were low as compared to high & moderate distress (Coe and Enomoto, 2020).
+Similary in countries like turkey came out with spiritual, economic and biopsychosocial issues further leading to
+stress, anxiety, fear and behavioural issues among the individuals. In countries like Bangladesh, due to lack of
+knowledge about the pandemic leads to sucide of one individual suspecting himself Covid-19 positive. Due to fear of
+such mental issues, there are countries like Sweden who opted for no lockdown policy (Tanhan, Yavuz, Young,
+
+Published by Sciedu Press                    10                         ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy  Vol. 12, No. 3; 2021
+
+Nalbant, Arslan, Yildirim, Ulusoy, Genç, Uur, Çiçek, 2020).
+
+Other than this, lack of information or circulation of wrong or fake informations on social media about COVID-19
+also increases the panic among human beings further leading to anxiety & stress (Scott, 2020). As per the
+sociodemographic data collected duing a study conducted in China revealed that females & students sufferd a great
+psychological impact along with high level of anxiety, stress & depression due to outbreak of COVID-19. Along with
+this the people suffering from physical symptoms of this disease and having a history of chronic illness with poor
+health staus are also under great psychological impact (Wang, Pan, Wan, Tan, Xu, Ho and Ho, 2020).
+
+After the outbreak of COVID-19, the priorty of hospitals or medical staff is to attend the COVID-19 patients as
+compared to patients reaching hospitals for the treatment of other diseases. This delay in traetment of others deadly
+diseases is also becoming a major issue for the society. The closure of outpatient duties & instructions of staying at
+home to control the pandemics is restricting the treatment of other diseases among people. As per study in USA, it is
+being observed that head & neck cancer are doubling in volume within 1 to 3 months due to delay in diagnoses or
+treatment. The situations like rescheduling of appointments with oncologists, radiologist, lab assistants, pathologists
+and surgeons, lack of PPE kits, lack of ventilators (diverted towards treatment of COVID-19) and shifting healthcare
+workers towards COVID- 19 emergencey leads to delay in regular examination of patients suffering from head and
+neck cancer. Such delay in treatment leads to low level of survival rate among such patients (Werner, Carey,
+Albergotti, Lukens and Brody, 2020).
+
+Impact of any pandemic is not just limited to the patients suffering from that disease but it also cover the people
+taking care of treating such patients for example, doctors, nurses or other health care wokrkers. During the outbreak
+of SARS-CoV in the year 200 the health care workers were also having psychiatric disordress after coping with
+comminity events. The emergency staff in Taiwan suffered from post-traumatic stress disorder (PTSD), due to
+interpersonal isolation and the fear that they will transmitt the disease to other people also (Lee, Kang, Cho, Kim &
+Park, 2018). As per study conducted to trace the impact of COVID-19 on mental health, it is being observed that
+medical workers are dealing with situations like, overwork, frustration, isolation, discrimination, lack of contact with
+their family members and high risk of infection. These situations give rise to mental health isuues like anxiety,
+depression, insomnia, stress, anger & fear among these workers (Torales, Higgins, Castaldelli-Maia and Ventriglio,
+2020).
+
+One of the study conducted in China stated that, starties like restricted travel plolicy shifted the interst of people
+towards their family and health instead to speding leisure time with friends. People started praying for the whole
+country through religion beliefs which relaxed their tense mood and generated positive emotions among them. It
+means somewhere there are positive impacts also in terms of getting social support from the family members &
+reflecting group cohessiveness by parying for everyone rather than pure personal emotions. Along with this donation
+provided by people in terms of food and money to the people in need is also a sign of chohessivenss & positivity ( Li,
+Wang, Xue, Zhao and Zhu, 2020).
+
+5.2 Economic Impact
+
+Outbreak of any infectieous disease give rise to many economic problems in the country. As per the conventional
+approch the information about mortality & morbidity is used to estimate the future income loss faced by an economy.
+During the outbreak SARS epedemic in 2003 significant effects on economies were seen in terms of increased
+business operating cost, reduction in consumation of good & servicies and increased risk premiums. Similarly during
+the influenza outbreak the total estimated economic cost beared by US economy was $73.1- $166.5 billion along
+with the GDP contarction of about 1.5% in the mild situation & 5% in case of severe situation. Let us discuss the
+economic impact of COVID-19:
+
+5.2.1 Labour Supply
+
+Due to increase in mortality & morbidity the supply of labour force is adversely effected. As per the study conducted
+in China, index of vulnerabity was used to measure the mortality rate , as per which counties who are more vunerable
+than China were having high mortality rate & reverse in case of low vunerability. Absence of labour force from the
+work due to incubation period or taking care of the other family members lead to loss of productive capacity. In such
+a situation government concern is to control the mortality rate & further spread of the disease, which lead to increase
+in government expenditure. A lot of expenditure is involved in the measures like health screening, increasing health
+facilities, strenghtening helathcare infrastucture & preventing disease spread to other areas (McKibbin and Fernando,
+2020)
+
+Published by Sciedu Press   11                         ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy                                  Vol. 12, No. 3; 2021
+
+5.2.2 Industrial Sector
+
+Lockdown is the another reason which is adversely affecting various industries like transportation, hospitality,
+shopping malls, restaurants and museums due to collpse of dicretionary spending by the consumer. The industries
+like coal firms, oil & gas hit hard with negative returns on an average of 50% below start of the year price. Oil prices
+have incresed with decline in its consumption. The price of Brent oil lowered down from $68.90 a barrel on 1st
+January, 2020 to $50.5 a barrel as on 28th February, 2020. Even the crude oil futures collasped by $20 a barrel from
+January to February. China is having an improtant role in global ecomomy and COVID- 19 is negatively impacting
+its investment decisions and other countries which further lower oil prices. The risk attached to this diesease has
+forced the OPEC+ countries to further cut in oil production of 600,000 barrels a day taken as an emerygency
+measure already pledged at 1.7 million barrels a day (Arezki and Nguyen, 2020). Even the traditional sectors which
+are always stable recorded a downfall 20% or more. Other industries like, aerospace, banks, travel, media and
+hospitality declined by more than 30% (Hevia, and Neumeyer, 2020). It is being observed that the situation is more
+worse in hospitality industry due to reduction in activity by more than 90%. Travel & tourism holds 10% of the
+global GDP and due to its closure the job of 50 million people world wide are at risk (Scott, 2020). Due to travel
+restrictions, airlines are grounding their flights & firing their staff members, hotel & casions have closed their
+operations, trade fairs & cruises are being cancelled and companies are cancelling foreign meeting & travelling. Such
+activities has landed the hospitality industry in a great crises. There are countries like Mexico, Spain, Greece or
+Portugal where tourism contributes 15% in GDP are adversly affected by this crisis (Fernandes, 2020). Social
+distancing is increasing the cost of inputs over the gross production, as firms are still paying their wage bills, rents,
+taxes & debts along with reduced or nil sale of good & services (Hevia and Neumeyer, 2020).
+
+5.2.3 Supply Chain
+
+Supply chain is the another area which is under the negative impact of COVID-19. As per expected by World Trade
+Organiztion (WTO), the world trade will fall by 32% due this pandemic. Both the impoter & expoter countries are
+bearing the losses due to lack of raw materials & final products. The companies like car manufacturing or watch
+manufacting are closing their operations due to lack of supply of components. There are companies like toy
+manufacturer Hasbro, which get 70% of its products from China is suffering a lot in this scenario (Fernandes, 2020).
+From past few decades China has become a critical supplier of inputs to various sectors like textile, Information &
+technology, Car manufacturing, toys etc. all over the world. The Hubie province of China is known as the ,,optic
+valley as they manufacture fibre optic components which an essentinal input for telecom network. Due to outbreak
+of this pandemic the Hubie alone can knock 10% off worldwide shipment of smartphones. In case of automobile
+sector also China is a critial supplier of auto parts and the car manufacturing companies like Hyundai (Korea) &
+Nissan (Japan) has closed their pant due to shortage of parts coming from China. Similarly, the gaint European
+manufacturers like Germany, the UK, France & Italy are key suppliers to Europen nations. The supply disruptions
+will definitely effect the consumers & firms existing in all major economies due to interdepandence of nations
+(Baldwin and Tomiura, 2020)
+
+5.2.4 Stock Market
+
+Stock market is the another area which is adversly affected by the outbreak of COVID- 19. The share price of many
+well known companies have fallen by more than 80% within few weeks. The stock market performnace of countries
+like UK and Germany is terribly marked as -37% in case of UK and -33% in case of Germany. The table 1 shows the
+top 10 negative performnaces on the graph of global stock markert for the year 2020:
+
+Table 1. Global stock market performnace in 2020      Global stock market performnace
+                           Countries                  -38
+                           Poland                     -39
+                           Belgium                    -39
+                           Thailand                   -40
+                           Russian                    -40
+                           South Africa               -40
+                           Argentina
+
+Published by Sciedu Press                         12   ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com           Research in World Economy  Vol. 12, No. 3; 2021
+
+                           Austria                    -41
+                           Norway                     -42
+                           Greece                     -44
+                           Colombia                   -47
+                           Brazil                     -48
+Source: Reuters Eikon
+
+Table 1 has clearly depicted the 10 worst performers in global stock market, here bBrazil is low by 48 % and Poland
+by 38%. Similarly the others countries are down by 39 % to 47% (Fernandes, 2020).
+
+Impact of COVID- 19 is seen all over the world, in such a scenario the emerging economies are at greater risk in
+terms of reduced output, unemployment, labour loss & declining GDP. Firstly, lockdown has reduced the output of
+each and every industry by restricting their operational activities. Secondly, to follow social distancing most of the
+people are working from home or do not work at all, which leads to decling in employee output as well as the
+organizational output. Thirdly, the counties who are exporting commodities to other countries are facing a sharp fall
+in price of the commodities they export which is negatively affecting their share of GDP and government revenues.
+Lastly, is the global financial shock beared by the emerging economies by large portfolio shift from riskier assests to
+safer liquid assets and further drop in the value of there curriencies (Hevia and Neumeyer, 2020).
+
+6. Government Intervention for the Well Being
+
+In response to the Covid-19 pandemic, every country has witnessed government intervention in order to mitigate the
+virus transmission. The six major interventions imposed by countries like China, Italy, India, Singapore, Spain, UK
+and US consists of centralize quarantine, lockdown, mask wearing, school closure, travel restrictions & social
+distancing. These interventions were imposed in order to mitigate the Covid transmission all over the world. It was
+estimated that in China 180 million primary & secondary students along with 47 million pre school children were
+confined at home and home schooling plan was efficiently administered during the lockdown. Huge efforts were
+made by schools and teachers to create an online study plan for delivering lectures to the students through TV
+broadcasts and internet. These efforts are helping parents to join their children with the education by avoiding study
+loss due to school closure (Wang, Zhang, Zhao, Zhang and Jiang, 2020). In order to tackle the psychological crisis
+emerged due to widespread to pandemic government introduced various psychological counselling helplines for
+public to address psychological issues faced by the individuals. In countries like China various medical institutions
+and universities started online platform to provide psychological counselling to patients, their family members and
+other individual affected by the pandemic (Duan and Zhu, 2020). In countries like turkey, to tackel with the spiritual,
+biopsychosocial and economic issues have created a social sciences board including experts to provide mental health
+support to the people. Phsical & social isolation are considered to be the most harmful ways directly deteorating the
+immune system & mental health of the individuals. It was observed that in turkey people approached Online Read
+Reflect Share (ORRS) bibliotherapy groups to get mental health services (Tanhan , Yavuz , Young , Nalbant, Arslan,
+Yildirim, Ulusoy, Genç, Uur , Çiçek, 2020). Along with psychological issues governments has made efficient
+interventions in order to stabalize the economy & supporting businesses. In France, state gurantees on commercial
+loans & credit line for the business enterprises up to 5000 employees. Direct grant given to the small & micro
+enterprises (maximum 10 employees and annual turnover mot exceeding EUO 1 million) along with the self
+employed individuals affected by covid-19. In Germany also two subsidized loan schemes were introduced by
+German Bank Kreditarisnstalt fur Wiederaufbau (KfW) covering the risk up to 90% available to all companies (up to
+5 year maturity and up to EUR 1 billion per company) 80% of the risk, but not more than 50% of a company's total
+debt, as part of a consortium of private banks. In this context the countries like Russia, have also introduced the
+schemes like "credit holiday", under which the small the medium sized enterprises working in the sectors which are
+higly affected by the pandemic may ask creditors to suspend their monthly payments and not to charge any interest
+against credit agreements. In UAE also the Central Bank and government allowed banks to tap AED 110 billion
+under TESS (Targeted Economic Support Scheme, thus allowing banks to boost up the lending and freeing up their
+reserves (McKenzie, 2020). There is a long list of interventions, but this paper has coverded few of them.
+
+7. Discussion
+
+Looking at the overll impact of Covid- 19 on well being, society is suffering from all the dimensions. Here we have
+created a framework where all the elements of well being are related to each other, impact of pandemic on one
+
+Published by Sciedu Press            13                         ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy                            Vol. 12, No. 3; 2021
+
+element will hurt the other element and so on.
+
+                                                    COVID- 19
+
+                            Figure 2. Impact of Covid- 19 on society well being
+
+Figure 2 shows that physical well being is related to functioning of ones own body, in present scenarion people both
+the categories of people whether suffering from covid-19 or not suffeirng from this disease as facing physical health
+issues in terms of weakness, headache, respiratory problem etc. The people who are sitting at home due to pandemic
+are facing abdominal problems due to overeating or less eating. Physical health issues directly targets the emotional
+well being of an individual which is related to managing stress and feeling good. Poor physical health is a restriction
+towards managing stress an feeling good. As we have alrady disscued about the psychological impact of covid-19 on
+an individual. Ones the person becomes emotionally weak, it further impacts the social wellbeing, which means, the
+ability of an individual to communicate, develop relationships and asking for support from others. Emotionally
+unstable person will feel lonlely and sometimes do not want to share his/her condition with others which further
+leads to the anxiety & depression. Such a situation negatively impact the social well being of an individual. Due to
+lack of mobility under lackdown people are unable to communicate and meet their loved ones which makes them
+emotionally weak. This negative impact on social well being futher impact the workplace well being of an individual,
+which means gaining professional enrichment. When one is not communicating and shareing at a point of time the
+individual start loosing interest from his/ her professional activities which further leads to negative impact of
+workplace wellbeing. The absence of an individual from workplace and social activities leads to withdrawal from
+community and cultural events. Due to lackdown these activities are instructed to be avoided in order to control the
+transmission process of the pandemic. Long term avoidance and fear of tranamission negatively inpacts the societal
+well being of and individual. Therefore we can say that Covid-19 is creating impacting all the dimensions of well
+being related to an individual.
+
+8. Conclusion
+
+A pandemic is the worst situation for any country in this world not matter how well versed is that country in terms of
+medical services or technology. Its uncontrollable & untreatable nature leads to huge human & economical loss over
+the world. But it should be noted that strictly following some of the effective measure especially social distancing
+and reduce the transmission rate by a goo percentage in absence of any vaccination. Once the vaccination is out, it
+can be controlled upto 75 % but the impact is always present psychological and economically. The impact of
+COVID-19 has covered each and every dimension of wellbeing in terms of psychological & economic issues. It has
+changed the lives in terms of human thinking and financial equations. The life after this pandemic will be more
+challenging for each and every individual as well as for the world economy.
+
+9. Recommendations
+
+As per the study following recommendations are made:
+
+We have discussed about the job loss people are facing due pandemic, in such a situation a portal pertaining to
+information about availability of job should be designed to help such people in getting new jobs.
+
+Online study for kids is an appreciating effort made by government but some measures need to be taken for saving
+
+Published by Sciedu Press                       14             ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy  Vol. 12, No. 3; 2021
+
+the young generation from mental & physical stress arising out of such virtual classes. Over burden of work and long
+hours of classes needs to rechecked for smooth functioning of the system.
+
+Due to Covid pandemic, hospitals and medical authorities are more diverted towards the treatment of Covid patients
+and giving less priority to the patients suffering from other harmful diseases. In such a scenario, it is recommended
+that every medical institute or hospital must design a separate helpline and Out Patient Duty (OPD) service for such
+patients who are suffering from separate diseases.
+
+As far as psychological intervention is concerned, it is being observed that the team designed to impart online
+psychological help to the people under stress is not trained and is lack of professional experience in the field of
+psychology. It is recommended that a proper training must be given to the medical personnel in the particular field in
+order to achieve the required goal.
+
+It is also being observed that the medical staff including doctors, nurses, ward boys who are handling the patients
+suffering from Covid- 19 are also dealing with the mental & physical issues like fear of getting infected (own/family
+member), anxiety, long working hours, lack of rest and disturbed eating schedule. Therefore, it is recommended that,
+regular health check-ups and counselling sessions must be organized for such medical helpers to ensure their mental
+& physical safety.
+
+References
+
+Anderson, R. M., Heesterbeek, H., Klinkenberg, D., & Hollingsworth, T. D. (2020). How will country-based
+     mitigation measures influence the course of the COVID-19 epidemic?. The Lancet, 395(10228), 931-934.
+     https://doi.org/10.1016/S0140-6736(20)30567-5
+
+Arezki, R., & Nguyen, H. (2020). Economics in the time of COVID-19. In R. B. Mauro, & E. B. Mauro (Eds.),
+     Novel coronavirus hurts the Middle East and North Africa through many channels (pp. 53-58). Centre for
+     Economic Policy Research Press.
+
+Aufderheide, A. C., & Rodriguez, M. C. (1998). Influenza. The Cambridge Encyclopedia of Human Paleopathology,
+     210-212.
+
+Baldwin, R., & Tomiura, E. (2020). Thinking ahead about the trade impact of COVID-19. In R. A. Baldwin, & E. B.
+     Mauro (Eds.), Economics in the time of COVID-19 (pp. 59-71). Centre for Economic Policy Research Press.
+
+Burke, A., & Cunha, M. D. (2004). Influenza: historical aspects of epidemics and pandemics. Elsevier, 18, 141-155.
+     https://doi.org/10.1016/S0891-5520(03)00095-3
+
+Coburn, B. J., Wagner, B. G., & Blower, S. (2009). Modeling influenza epidemics and pandemics: insights into the
+     future of swine flu (H1N1). BMC Medicine, 1-8. https://doi.org/10.1186/1741-7015-7-30
+
+Coe, E. H., & Enomoto, K. (2020, April 2). Returning to resilience: The impact of COVID-19 on mental health and
+     substance use. Mckinsey and Company.
+
+Duan, L., & Zhu, G. (2020). Psychological interventions for people affected by the COVID-19 epidemic. Department
+     of Psychiatry. Shenyang: Lancet Psychiatry. https://doi.org/10.1016/S2215-0366(20)30073-0
+
+Fagan, J., Galea, S., Ahern, J., Bonner, S., & Vlahov, D. (2003). Relationship of self-reported asthma severity and
+     urgent health care utilization to psychological sequelae of the September 11, 2001 terrorist attacks on the World
+     Trade Center among New York City area residents. Psychosomatic Medicine, 65, 993-996.
+     https://doi.org/10.1097/01.psy.000
+
+Ferguson, N. M., Cummings, D. A. T., Fraser, C., Cajka, J. C., Cooley, P. C., & Burke, D. S. (2006, July). Strategies
+     for mitigating an influenza pandemic. Nature, 442. https://doi.org/10.1038/nature04795
+
+Fernandes, N. (2020). Economic effects of coronavirus outbreak (COVID-19) on the world economy. European
+     Corporate Governance Institute (ECGI), University of Navarra, IESE Business School.
+     https://doi.org/10.2139/ssrn.3557504
+
+Ghendon, Y. (1994). Introduction to pandemic influenza through history. European Journal of Epidemiology, 10,
+     451-453.
+
+Hayden, F. G., & Palese, P. (2002). Influenza virus in: Richman DD, Whitley RJ, Hayden FG (2nd ed.). Washington
+     (DC): ASM Press.
+
+Hevia, C., & Neumeyer, A. (2020). A conceptual framework for analyzing the economic impact of COVID-19 and its
+     policy implications March 2020. United Nations Development Programme, New York.
+
+Published by Sciedu Press   15                         ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy                                   Vol. 12, No. 3; 2021
+
+Huang, C., Wang, Y., Li, X., Ren, L., Zhao, J., Hu, Y., et al.. (2020). Clinical features of patients infected with 2019
+     novel coronavirus in Wuhan, China. The Lancet, 395(10223), 497-506.
+     https://doi.org/10.1016/S0140-6736(20)30183-5
+
+Kachanoff, F. J., & Taylor, D. M. (2017). Materialism: Rational and psychological perspectives. In The sage
+     encyclopedia of political behavior. California: Thousand Oaks.
+
+Kermack, W. O., & McKendrick, A. G. (1927, August). A contribution to the mathematical theory of epidemics.
+     Proceedings of the Royal Society A, 115, 700-721. https://doi.org/10.1098/rspa.1927.0118
+
+Kerr, A. W. (2009). Political precaution, pandemics and protectionism. The Estey Centre Journal of International
+     Law and Trade Policy, 10(2), 1-14.
+
+Kucharski, A. J., Russell, T. W., Diamond, C., Liu, Y., Edmunds, J., Funk, S., & Eggo, R. M. (2020). Early
+     dynamics of transmission and control of COVID-19: a mathematical modelling study. Lancet Infectious
+     Diseases. https://doi.org/10.1016/S1473-3099(20)30144-4
+
+Lee, S. M., Kang, W. S., Cho, A.-R., Kim, T., & Park, J. K. (2018). Psychological impact of the 2015 MERS
+     outbreak on hospital workers and quarantined hemodialysis patients. Comprehensive Psychiatry, 87, 123-127.
+     https://doi.org/10.1016/j.comppsych.2018.10.003
+
+Li, S. J., Wang, Y. L., Xue, J., Zhao, N., & Zhu, T. S. (2020). The impact of COVID-19 epidemic declaration on
+     psychological consequences: A study on active Weibo users. International Journal of Environmental Research
+     and Public health, 17(2032), 1-9. https://doi.org/10.3390/ijerph17062032
+
+Maxouris, C., Almasy, S., & McLaughlin, E. (2020). US coronavirus: For many Americans, a normal life is on
+
+hold-CNN.                       Retrieved                                                            from
+
+https://www.cnn.com/2020/03/12/health/coronavirus-us-updates-cases-thursday/index.html
+
+McKenzie, B. (2020). COVID-19 government intervention schemes.
+
+McKibbin, W., & Fernando, R. (2020). The global macroeconomic impacts of COVID-19: seven scenarios. CAMA
+     Working Paper 19/2020 February 2020, The Australian National University, Centre for Applied
+     Macroeconomic Analysis- CAMA. https://doi.org/10.2139/ssrn.3547729
+
+Rothana, H. A., & Byrareddyb, S. N. (2020). The epidemiology and pathogenesis of coronavirus disease (COVID-19)
+     outbreak. Journal of Autoimmunity, 109, 1-4. https://doi.org/10.1016/j.jaut.2020.102433
+
+Scott, J. (2020, March 27). This is the human impact of COVID-19­and how business can help. The World
+     Economic Forum.
+
+Sherif, M. (1966). In common predicament: social psychology of intergroup conflict and cooperation.
+
+Stöhr, K. (2005, January 27). Avian influenza and pandemics-research needs and opportunities. The New England
+     Journal of Medicine, 405-407. https://doi.org/10.1056/NEJMe048344
+
+Tajfel, H., & Turner, J. C. (1979). An integrative theory of intergroup conflict. In W. G. Worchel (Ed.), The social
+     psychology of intergroup relations (pp. 33-47). Monterey, CA: Brooks/Cole.
+
+Tam, S. W. T. (1999). Preparing for influenza epidemics and pandemics in the New Millennium. Canadian Journal
+     of Public Health, 90(5), 293-294. https://doi.org/10.1007/BF03404511
+
+Tamblyn, S., & Hinman, A. (1993). Pandemic planning: concluion concluion and recommendations. In C. Hannoun
+     (Eds.), Options for the control of influenza II (pp. 457-459.). Amsterdam: Elsevier.
+
+Tanhan, A., Yavuz, K. F., Young, J. S., Nalbant, A., Arslan, G., Yildirim, M., ... Çiçek, . (2020). A proposed
+     framework based on literature review of online contextual mental health services to enhance wellbeing and
+     address psychopathology during COVID-19. Electronic Journal of General Medicine, 17(6), 1-11.
+     https://doi.org/10.29333/ejgm/8316
+
+Torales, J., Higgins, M. O., Castaldelli-Maia, J. M., & Ventriglio, A. (2020). The outbreak of COVID-19 coronavirus
+     and its impact on global mental health. International Journal of Social Psychiatry, 00(0), 1-4.
+     https://doi.org/10.1177/0020764020915212
+
+Van Voris, L. P., Young, J. F., Bernstein, J. M., Graham, W. C., Anderson, E. L., Gorse, G. J., ... Belshe, R. B.
+     (1984). Influenza viruses. In R. B. Belshe (Ed.), Textbook of human virology (pp. 267-280). Littleton (MA):
+     PSG Publishing Company.
+
+Published by Sciedu Press   16                                  ISSN 1923-3981 E-ISSN 1923-399X
+http://rwe.sciedupress.com  Research in World Economy  Vol. 12, No. 3; 2021
+
+Velavan, T. P., Christian, G., & Meyer, C. M. (2020). The COVID-19 epidemic. Tropical Medicine & International
+     Health, 25(3), 278-280. https://doi.org/10.1111%2Ftmi.13383
+
+Wang, C., Pan, R., Wan, X., Tan, Y., Xu, L., Ho, C. S., & Ho, R. C. (2020). Immediate psychological responses and
+     associated factors during the initial stage of the 2019 Coronavirus Disease (COVID-19) epidemic among the
+     general population in China. International Journal of Environment Research and Public Health, 17(1729).
+     https://doi.org/10.3390/ijerph17051729
+
+Webster, G. R., & Lim, L. W. (1992). A pandemic warning. Scientific Correspondence, 56, 152-179.
+     https://doi.org/10.1128/MMBR.56.1.152-179.1992
+
+Werner, M. T., Carey, R. M., Albergotti, W. G., Lukens, J. N., & Brody, R. M. (2020). Impact of the COVID-19
+     pandemic on the management of head and neck malignancies. American Academy of Otolaryngology­Head and
+     Neck Surgery Foundation, 1-2. https://doi.org/10.1177/0194599820921413
+
+Zheng, Y. Y., Ma, T. Y., Zhang, Y. J., & Xie, X. (2020). COID-19 and cardiovascular system. Nature Review.
+     https://doi.org/10.1038/s41569-020-0360-5
+
+Copyrights
+
+Copyright for this article is retained by the author(s), with first publication rights granted to the journal.
+
+This is an open-access article distributed under the terms and conditions of the Creative Commons Attribution
+license (http://creativecommons.org/licenses/by/4.0/).
+
+Published by Sciedu Press   17                         ISSN 1923-3981 E-ISSN 1923-399X
+
